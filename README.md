@@ -8,6 +8,9 @@
 📱 With **1 year of professional experience** in **Flutter app development**, I have successfully created applications that solve real-world problems with clean, scalable, and responsive code.  
 💡 Passionate about building modern, user-centric apps and exploring the latest in mobile app technologies.  
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ---
 
 ## Skills  
