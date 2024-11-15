@@ -18,7 +18,7 @@
 - **Other Tools**: Android Studio (Ladybug 2024.2), Git, RESTful APIs  
 - **Soft Skills**: Problem-solving, Team Collaboration, Quick Learner
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,dart,flutter,git,github,figma,firebase,postman,pycharm,sqlite,stackoverflow,sublime,anaconda,arduino,atom,autocad,bash,java,mysql,linux,ubuntu,vscode,html,css,javascript,php)](https://skillicons.dev)
 
 ---
 
