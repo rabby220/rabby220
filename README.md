@@ -52,9 +52,11 @@
 ---
 
 ## Get in Touch  
-📧 **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)  
-💼 **LinkedIn**: [linkedin.com/in/YourProfile](#)  
-📱 **Portfolio**: [yourportfolio.com](#)  
+📧 **Email**: [Email](fajlarabby220@gmail.com)  
+💼 **LinkedIn**: [Linkedin](https://www.linkedin.com/in/flutterdevrabby/) 
+
+
+ <!--📱 **Portfolio**: [yourportfolio.com](#)   -->
 
 ---
 
