@@ -1,4 +1,4 @@
-# 👨‍💻 **[ Fajla Rabby ]**  
+# 👨‍💻  Fajla Rabby 
 🌟 **Flutter Developer | Mobile App Enthusiast | Tech Innovator**  
 
 ---
