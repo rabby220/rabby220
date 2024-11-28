@@ -27,31 +27,17 @@
 - Generate and save random passwords with titles.  
 - Integrated **Hive** for local data storage and secure functionality.  
 - Available on [Google Play Store](#).  
-
-### ⚡ **Electric Bill Cost App**  
-- Calculates electricity bills for various categories, such as Residential, Agriculture, and Hospitals.  
-- Features **DataTable** for managing tariff plans and comprehensive category-based calculations.  
-- Enhanced navigation with a **Drawer**-based interface.  
+ 
 
 ### 🌦️ **Weather App**  
 - Provides current weather, hourly forecasts, and a 7-day outlook for searched locations.  
 - Built with **FutureBuilder** and responsive design principles for seamless performance.  
 
-### 🩸 **Blood Donation App**  
-- Firebase-authenticated platform for blood donor search and donor profile creation.  
-- Implements secure signup/login and location-based donor filtering.  
+ 
 
-### 📝 **Task Manager App**  
-- Fully-featured task management system with priority levels, deadlines, notifications, and Firebase/Local sync.  
-- Integrated animations, calendar reminders, and theming with **GetX**.  
 
 ---
 
-## GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
-
----
 
 ## Get in Touch  
 📧 **Email**: [Email](fajlarabby220@gmail.com)  
