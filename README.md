@@ -26,14 +26,12 @@
 ### 🔑 **Password Generator App**  
 - Generate and save random passwords with titles.  
 - Integrated **Hive** for local data storage and secure functionality.  
-- Available on [Google Play Store](#).  
+
  
 
 ### 🌦️ **Weather App**  
 - Provides current weather, hourly forecasts, and a 7-day outlook for searched locations.  
-- Built with **FutureBuilder** and responsive design principles for seamless performance.  
 
- 
 
 
 ---
