@@ -61,6 +61,79 @@
 
 
 
+ <!--  Use github-readme-stats for Profile Visualizations  
+ 
+ This tool generates dynamic GitHub stats cards for your README profile.
+
+Steps to Set Up:
+Visit the Repository: Go to github-readme-stats.
+Generate a Stats Card:
+Copy the code snippet and paste it into your README.md file
+ 
+ 
+ -->
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rabby220&show_icons=true&theme=radical)
+
+
+
+
+
+ 
+
+
+ <!--       Optional Settings:
+ 
+ 
+ --> 
+
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rabby220&layout=compact&theme=tokyonight)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+  <!--           2. Add a Contribution Graph       --> 
+
+
+[![Ashutosh's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rabby220&theme=github)]   <!--(https://github.com/ashutosh00710/github-readme-activity-graph) --> 
+
+
+
+
+  
+
+   <!--                  --> 
+
+
+    <!--                  --> 
+
+     <!--                  --> 
+
+
+      <!--        Use Third-Party Tools           --> 
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=rabby220)
+
+
+
+
 
 
 
