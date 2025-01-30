@@ -55,9 +55,11 @@
 
 <h3>My GitHub contributions summary</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rabby220&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=flutterdevrabby&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rabby220&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flutterdevrabby&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=flutterdevrabby&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 
 
